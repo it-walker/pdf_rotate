@@ -1,0 +1,3 @@
+target_file_path: C:\sourcecode\pdf_rotate\Book1.pdf
+out_file_path: C:\sourcecode\pdf_rotate\result.pdf
+rotate: 90
